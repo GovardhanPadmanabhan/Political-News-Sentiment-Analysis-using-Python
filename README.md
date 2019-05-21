@@ -7,6 +7,8 @@ News articles are retrieved using the News API. The api key can be retrieved fro
 # Pre-Requisites
 1.) API Key from News Api
 
-2.) pandas library
+2.) newsapi-python library
 
-3.) vaderSentiment library
+3.) pandas library
+
+4.) vaderSentiment library
